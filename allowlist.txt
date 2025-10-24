@@ -1,2 +1,2 @@
-https://flockfantasy.com/,
-https://flockfantasy.com/my-teams
+||https://flockfantasy.com^
+||https://flockfantasy.com/my-teams^
