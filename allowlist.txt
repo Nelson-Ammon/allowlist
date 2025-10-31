@@ -1,4 +1,4 @@
 @@||flockfantasy.com^
-@@||www.asusrouter.com^
+@@||asusrouter.com^
 @@||dynatrace.com^
 @@||speedtest.net^
