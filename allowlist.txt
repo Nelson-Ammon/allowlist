@@ -1,4 +1,3 @@
-||https://flockfantasy.com^
-||https://flockfantasy.com/my-teams^
-||http://www.asusrouter.com/^
-||https://www.dynatrace.com/^
+@@||flockfantasy.com^
+@@||www.asusrouter.com^
+@@||dynatrace.com^
