@@ -2,3 +2,5 @@
 @@||asusrouter.com^
 @@||dynatrace.com^
 @@||speedtest.net^
+@@||fidelity.com^
+@@||fidelitydebitcard.com^
