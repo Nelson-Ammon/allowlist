@@ -53,3 +53,7 @@
 @@||*.gstatic.com^
 @@||googleapis.com^
 @@||*.googleapis.com^
+
+@@||v2.streameast.ga^
+@@||*.streameast.ga^
+
