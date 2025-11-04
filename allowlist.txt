@@ -57,3 +57,6 @@
 @@||v2.streameast.ga^
 @@||*.streameast.ga^
 
+@@||*.mullvad.net^
+@@||*.mullvad.*^
+
