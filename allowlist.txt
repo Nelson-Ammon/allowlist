@@ -60,3 +60,6 @@
 @@||*.mullvad.net^
 @@||*.mullvad.*^
 
+@@||*.streameast.ga^
+@@||streameast.ga^
+
