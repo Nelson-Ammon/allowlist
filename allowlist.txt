@@ -63,3 +63,6 @@
 @@||*.streameast.ga^
 @@||streameast.ga^
 
+@@||protect.checkpoint.com^
+@@||*.protect.checkpoint.com^
+
