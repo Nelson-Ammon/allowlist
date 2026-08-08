@@ -66,3 +66,12 @@
 @@||protect.checkpoint.com^
 @@||*.protect.checkpoint.com^
 
+@@||graph.facebook.com^
+@@||b-graph.facebook.com^
+@@||edge-mqtt.facebook.com^
+@@||scontent.xx.fbcdn.net^
+@@||scontent-dfw6-2.xx.fbcdn.net^
+@@||cdn.fbsbx.com^
+@@||payments-graph.facebook.com^
+@@||graph.fbpigeon.com^
+@@||meta-ohttp-relay-prod.fastly-edge.com^
